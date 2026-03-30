@@ -30,7 +30,7 @@ Upload PDFs and ask questions — the system retrieves relevant context and answ
 
 ## 📂 Project Structure
 
-ai-doc-assistant/
+ai-doc-assistant
 ├── app.py             
 ├── requirements.txt   
 ├── .gitignore  
