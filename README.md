@@ -30,11 +30,13 @@ Upload PDFs and ask questions — the system retrieves relevant context and answ
 
 ## 📂 Project Structure
 ai-doc-assistant/
-│── app.py
-│── requirements.txt
-│── .gitignore
-│── .env.example
-│── README.md
+│
+├── app.py             
+├── requirements.txt   
+├── .gitignore  
+├── .env.example      
+└──  README.md     
+
 
 
 ---------------------------------------------
